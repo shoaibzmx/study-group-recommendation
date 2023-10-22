@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url('./images/pxfuel.jpg'); /* Adjust the path to your image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional, use this for a fixed background */
+}
+
